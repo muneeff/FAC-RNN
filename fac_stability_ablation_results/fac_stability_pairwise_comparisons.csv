@@ -1,0 +1,4 @@
+baseline,new_model,baseline_mse,new_mse,relative_mse_reduction_percent
+A_fixed_contractive,B_adaptive_contractive,0.010364066188534101,0.009842757446070513,5.029963462027281
+B_adaptive_contractive,C_fuzzy_contractive,0.009842757446070513,0.00968088023364544,1.6446327496335815
+C_fuzzy_contractive,D_fuzzy_unconstrained,0.00968088023364544,0.007293544399241607,24.660317830467115

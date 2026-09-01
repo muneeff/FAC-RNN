@@ -1,0 +1,33 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.log
+*.aux
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+*.bbl
+*.blg
+
+# Local/editor files
+.vscode/
+.idea/
+
+# Large/generated research artifacts
+*.pt
+*.pth
+*.ckpt
+
+# Manuscript/private submission files
+Cover_Letter_*.docx
+Declaration_of_Competing_*.docx
+Title page*.docx
+Manuscript.pdf
+FAC-RNN.pdf
+highlights.txt
