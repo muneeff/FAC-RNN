@@ -31,3 +31,24 @@ Title page*.docx
 Manuscript.pdf
 FAC-RNN.pdf
 highlights.txt
+# Legacy DynamoSpline-RNN files
+dynamo_spline.py
+run_adding_benchmark.py
+run_dynamo_only.py
+run_dynamo_only_optimized.py
+verify_theorems.py
+theorem1_dynamospline.pdf
+theorem1_dynamospline.tex
+ref.bib
+gradient_dynamics_verification.png
+
+# Pilot experiments
+fac_rnn_copy_v2_pilot_history.csv
+fac_rnn_copy_v2_pilot_results.csv
+fac_rnn_copy_v2_seq2seq.py
+fac_rnn_cpu_pilot.py
+
+# Local/private files
+Cover_Letter_Revised.pdf
+data/
+*.docx
