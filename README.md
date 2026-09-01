@@ -1,5 +1,4 @@
-إليك **ملف التوثيق الفني والمبرمجي المحدث والجاهز** (Documentation & Implementation Notes) لمشروع **DynamoSpline-RNN**. يمكنك حفظه في ملف باسم **`README.md`** أو إرفاقه كملف توثيق تقني مع المستندات المساندة للورقة البحثية:
-
+ملف التوثيق:
 ---
 
 # DynamoSpline-RNN: Technical Documentation & Implementation Guide
